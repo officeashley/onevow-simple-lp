@@ -9,7 +9,7 @@ This document constitutes the mandatory disclosure under Japan’s Act on Specif
 
 1. Provider Information
 Business Name: OneVow
-Representative: Founder & CEO, Akiko Antipova
+Representative: Founder & CEO, Antipova
 Address: 2-2-1 Hokima, Adachi-ku, Tokyo 121-0064, Japan
 Contact Email: info@onevow.io
 Support Language: English and Japanese
@@ -101,3 +101,4 @@ Any disputes shall be subject to the exclusive jurisdiction of the Tokyo Distric
     </main>
   );
 }
+
